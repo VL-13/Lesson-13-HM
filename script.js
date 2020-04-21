@@ -1,0 +1,11 @@
+let name='Victor';
+let age=25;
+let xyz;
+x=null;
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof xyz);
+console.log(xyz == age);
+xyz=25;
+console.log(xyz == age);
+console.log(typeof x);
